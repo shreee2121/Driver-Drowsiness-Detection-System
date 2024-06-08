@@ -1,5 +1,5 @@
 # Driver-Drowsiness-Detection-System
-Developed a real-time driver drowsiness detection system using Convolutional Neural Networks (CNN) and OpenCV
+Developed a real-time driver drowsiness detection system using deeplearning and OpenCV
 
 1.COPY MODEL FOLDER IN ANYWHERE 
 2.OPEN PYCHARM,VSCODE,ETC 
